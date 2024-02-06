@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">capacitor-app-poc</string>
+    <string name="title_activity_main">capacitor-app-poc</string>
+    <string name="package_name">com.capacitorapppoc.app</string>
+    <string name="custom_url_scheme">com.capacitorapppoc.app</string>
+</resources>
